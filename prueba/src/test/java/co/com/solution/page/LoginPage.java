@@ -1,4 +1,4 @@
-package co.com.sophossolutions.page;
+package co.com.solution.page;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.support.PageFactory;

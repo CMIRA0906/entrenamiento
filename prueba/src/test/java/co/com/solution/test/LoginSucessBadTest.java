@@ -1,8 +1,8 @@
-package co.com.sophossolutions.test;
+package co.com.solution.test;
 
 import org.junit.Test;
 
-import co.com.sophossolutions.common.BaseClass;
+import co.com.solution.common.BaseClass;
 
 public class LoginSucessBadTest extends BaseClass{
 	

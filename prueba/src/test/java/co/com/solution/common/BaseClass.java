@@ -1,4 +1,4 @@
-package co.com.sophossolutions.common;
+package co.com.solution.common;
 
 import org.junit.After;
 import org.junit.Before;
